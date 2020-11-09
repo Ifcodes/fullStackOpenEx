@@ -6,7 +6,7 @@ the submit button. An HTTP POST
 request is made to new_note_spa
 end note 
 
-Browser->Server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+Browser->Server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/data.json
 note right of Server: 
 The content type in the 
 request header tells the 
